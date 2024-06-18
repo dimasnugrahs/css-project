@@ -85,7 +85,7 @@
           rgba(29, 29, 29, 0.7)
         ),
         /* bottom, image */
-        url('/assets/aerial-shot-sea-waves-seashore-during-daytime.jpg');
+        url('assets/aerial-shot-sea-waves-seashore-during-daytime.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
